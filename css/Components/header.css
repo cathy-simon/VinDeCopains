@@ -1,0 +1,48 @@
+
+
+#navbar {
+position: fixed;
+bottom: 632px;
+width: 100%;
+height: 38px;
+left: 0px;
+z-index: 1000;
+background-color: #FDFFFC;
+top: 0;
+
+}
+nav ul{
+  list-style-type: none;
+}
+
+nav li{
+    float: right;
+    width: 10%;
+}
+
+nav ul::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    padding: 10px 0px;
+}
+
+nav a:hover{
+    color: #9F1D2C;
+}
+
+.Menu-inline {
+  vertical-align: center;
+  text-align: center;
+  padding-top: 14px;
+  padding-right: 10px;
+  background-color: #FDFFFC;
+}
+
+

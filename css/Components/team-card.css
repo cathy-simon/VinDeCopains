@@ -1,0 +1,22 @@
+.team-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+ .team-card {
+  flex-basis: 250px;
+ flex-grow: 1;
+ margin: 10px;
+}
+
+.team-card {
+ padding: 35px;
+ border-radius: 6px;
+ margin: 20px 4px;
+ text-align: center;
+}
+
+.team-card img {
+  border-radius: 50%;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+}

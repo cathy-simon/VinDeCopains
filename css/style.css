@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Lobster+Two:ital,wght@1,400;1,700&family=Special+Elite&display=swap');
+@import url("Components/container.css");
+@import url("Components/header.css");
+@import url("Components/banner.css");
+@import url("Components/footer.css");
+@import url("Components/team-card.css");
+@import url("Components/description-bloc.css");
+
+body {
+  background: #FDFFFC;
+  color: black;
+  font-family:'Special Elite', cursive;
+  font-size: 16px;
+  font-weight: lighter;
+  line-height: 200%;
+  text-align: justify;
+}
+
+h1, h2, h3, h4, a {
+  font-family:'Special Elite', cursive;
+}
+
+h1 {
+  color:#991F32;
+  font-size: 72px;
+  line-height: 140%;
+  font-weight: bold;
+}
+
+
+h2 {
+  color: white;
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+h3 {
+  color: #991F32;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4{
+  color: #991F32;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+
+}
+a:hover {
+  color: #991F32;
+}
+
+
+

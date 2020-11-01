@@ -1,0 +1,53 @@
+.histoire-bloc {
+  display: flex;
+  align-items: center;
+}
+
+
+.titreright {
+  text-align: center;
+  padding-left: 120px;
+  }
+
+
+.pright {
+width: 400px;
+padding-right: 70px;
+padding-left: 200px;
+text-align: center;
+}
+
+
+.titreleft {
+  margin-left: 150px;
+}
+
+.img-left {
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+.vinrouge-bloc {
+  display: flex;
+  align-items: center;
+
+}
+
+.vinrouge-bloc img {
+  position: relative;
+  left: 220px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.vinrouge-bloc p {
+  width: 350px;
+  text-align: center;
+  margin-left: 50px;
+
+}
+
+.vinblanc-bloc {
+  display: flex;
+  align-items: center;
+}
+
